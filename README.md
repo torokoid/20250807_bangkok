@@ -193,9 +193,9 @@ p.note { display: none; }
 <h2><span class="yellow">こんな自販機もありました</span></h2>
 <a href="20250807_015.JPG" target="_blank"><img src="20250807_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250807_016.JPG" target="_blank"><img src="20250807_016.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250807_017.JPG" target="_blank"><img src="20250807_017.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
 <h2><span class="yellow">元気そうなお兄さんの購入品を参考に、同じものを買いました</span></h2>
+<a href="20250807_017.JPG" target="_blank"><img src="20250807_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250807_018.JPG" target="_blank"><img src="20250807_018.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">人が集まるところに必ずある宝くじ売り場</span></h2>
