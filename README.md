@@ -163,69 +163,72 @@ p.note { display: none; }
 <div class="media-container">
  
 <h2><span class="yellow">5日、近場の市場まで行きました。駐車場は満車でお兄さんが車誘導・駐車整理</span></h2>
-<a href="20250805_001.JPG" target="_blank"><img src="20250805_001.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_002.JPG" target="_blank"><img src="20250805_002.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_001.JPG" target="_blank"><img src="20250807_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_002.JPG" target="_blank"><img src="20250807_002.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">市場は大盛況</span></h2>
-<a href="20250805_003.JPG" target="_blank"><img src="20250805_003.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_004.JPG" target="_blank"><img src="20250805_004.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_005.JPG" target="_blank"><img src="20250805_005.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_003.JPG" target="_blank"><img src="20250807_003.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_004.JPG" target="_blank"><img src="20250807_004.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_005.JPG" target="_blank"><img src="20250807_005.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">寄付を募る盲人の女性</span></h2>
-<a href="20250805_006.JPG" target="_blank"><img src="20250805_006.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_007.JPG" target="_blank"><img src="20250805_007.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_006.JPG" target="_blank"><img src="20250807_006.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_007.JPG" target="_blank"><img src="20250807_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">成果の販売量は、一回では食べられないレベル</span></h2>
-<a href="20250805_008.JPG" target="_blank"><img src="20250805_008.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_008.JPG" target="_blank"><img src="20250807_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">とうもろこしは実の部分をナイフで剥がして販売されてました</span></h2>
-<a href="20250805_009.JPG" target="_blank"><img src="20250805_009.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_009.JPG" target="_blank"><img src="20250807_009.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">横断歩道なしの４車線道路を渡るのに、中央部分で待つ女性</span></h2>
-<a href="20250805_010.JPG" target="_blank"><img src="20250805_010.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_010.JPG" target="_blank"><img src="20250807_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">お店の下には餌を待つ犬</span></h2>
-<a href="20250805_011.JPG" target="_blank"><img src="20250805_011.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_012.JPG" target="_blank"><img src="20250805_012.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_013.JPG" target="_blank"><img src="20250805_013.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_014.JPG" target="_blank"><img src="20250805_014.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_011.JPG" target="_blank"><img src="20250807_011.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_012.JPG" target="_blank"><img src="20250807_012.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_013.JPG" target="_blank"><img src="20250807_013.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_014.JPG" target="_blank"><img src="20250807_014.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">こんな自販機もありました</span></h2>
-<a href="20250805_015.JPG" target="_blank"><img src="20250805_015.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_016.JPG" target="_blank"><img src="20250805_016.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_017.JPG" target="_blank"><img src="20250805_017.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_015.JPG" target="_blank"><img src="20250807_015.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_016.JPG" target="_blank"><img src="20250807_016.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_017.JPG" target="_blank"><img src="20250807_017.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">元気そうなお兄さんの購入品を参考に、同じものを買いました</span></h2>
-<a href="20250805_018.JPG" target="_blank"><img src="20250805_018.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_018.JPG" target="_blank"><img src="20250807_018.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">人が集まるところに必ずある宝くじ売り場</span></h2>
-<a href="20250805_019.JPG" target="_blank"><img src="20250805_019.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_019.JPG" target="_blank"><img src="20250807_019.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">猫ちゃん、餌をもらいました</span></h2>
-<a href="20250805_020.JPG" target="_blank"><img src="20250805_020.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_020.JPG" target="_blank"><img src="20250807_020.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow"></span>市場の購入品で晩御飯</h2>
-<a href="20250805_021.JPG" target="_blank"><img src="20250805_021.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_022.JPG" target="_blank"><img src="20250805_022.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_021.JPG" target="_blank"><img src="20250807_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_022.JPG" target="_blank"><img src="20250807_022.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">6日も近場を散策します</span></h2>
-<a href="20250805_023.JPG" target="_blank"><img src="20250805_023.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_023.JPG" target="_blank"><img src="20250807_023.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">信号なし交差点での右折は前車にぴったりくっついて行くしかありません</span></h2>
+<a href="20250807_001.MOV" target="_blank"><img src="20250807_001.MOV" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">スーパーよりちょっと高めのブランドパン屋さんで、翌朝の朝ごはんを購入</span></h2>
-<a href="20250805_024.JPG" target="_blank"><img src="20250805_024.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_025.JPG" target="_blank"><img src="20250805_025.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_026.JPG" target="_blank"><img src="20250805_026.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_027.JPG" target="_blank"><img src="20250805_027.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_024.JPG" target="_blank"><img src="20250807_024.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_025.JPG" target="_blank"><img src="20250807_025.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_026.JPG" target="_blank"><img src="20250807_026.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_027.JPG" target="_blank"><img src="20250807_027.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">晩御飯はいつものコンビニ横屋台で</span></h2>
-<a href="20250805_028.JPG" target="_blank"><img src="20250805_028.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250805_029.JPG" target="_blank"><img src="20250805_029.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_028.JPG" target="_blank"><img src="20250807_028.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_029.JPG" target="_blank"><img src="20250807_029.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">チャーハンを掘り起こすと、大きなエビが3つ出てきました</span></h2>
-<a href="20250805_030.JPG" target="_blank"><img src="20250805_030.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_030.JPG" target="_blank"><img src="20250807_030.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">朝8時から夜の9時まで営業の屋台</span></h2>
-<a href="20250805_031.JPG" target="_blank"><img src="20250805_031.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250807_031.JPG" target="_blank"><img src="20250807_031.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br>
 
