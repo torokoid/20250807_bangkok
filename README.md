@@ -175,7 +175,7 @@ p.note { display: none; }
 <a href="20250807_006.JPG" target="_blank"><img src="20250807_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250807_007.JPG" target="_blank"><img src="20250807_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">成果の販売量は、一回では食べられないレベル</span></h2>
+<h2><span class="yellow">果物の販売量は、一回では食べられないレベル</span></h2>
 <a href="20250807_008.JPG" target="_blank"><img src="20250807_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">とうもろこしは実の部分をナイフで剥がして販売されてました</span></h2>
