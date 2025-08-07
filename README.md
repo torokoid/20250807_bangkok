@@ -204,7 +204,7 @@ p.note { display: none; }
 <h2><span class="yellow">猫ちゃん、餌をもらいました</span></h2>
 <a href="20250807_020.JPG" target="_blank"><img src="20250807_020.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow"></span>市場の購入品で晩御飯</h2>
+<h2><span class="yellow">市場の購入品で晩御飯</span></h2>
 <a href="20250807_021.JPG" target="_blank"><img src="20250807_021.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250807_022.JPG" target="_blank"><img src="20250807_022.JPG" alt="サンプル画像" class="responsive-media"></a>
     
