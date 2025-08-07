@@ -211,7 +211,7 @@ p.note { display: none; }
 <h2><span class="yellow">6日も近場を散策します</span></h2>
 <a href="20250807_023.JPG" target="_blank"><img src="20250807_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">信号なし交差点での右折は前車にぴったりくっついて行くしかありません</span></h2>
+<h2><span class="yellow">信号なし交差点での右折は前車にぴったりくっついて行くしかありません<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250807_001.MOV" target="_blank"><img src="20250807_001.png" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">スーパーよりちょっと高めのブランドパン屋さんで、翌朝の朝ごはんを購入</span></h2>
