@@ -245,12 +245,14 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/awGPJHDp_uA?si=Vyb-BzHI7ZLlsKYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
-<h2><span class="yellow">道後温泉の画像集、精緻な木彫りの前では小五のお孫さんがこんにちは！</span></h2>
+<h2><span class="yellow">道後温泉の画像集</span></h2>
 <a href="20250806_dougo3.jpg" target="_blank"><img src="20250806_dougo3.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo4.jpg" target="_blank"><img src="20250806_dougo4.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo5.jpg" target="_blank"><img src="20250806_dougo5.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo6.jpg" target="_blank"><img src="20250806_dougo6.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo7.jpg" target="_blank"><img src="20250806_dougo7.jpg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">精緻な木彫りの前では小五のお孫さんがこんにちは！</span></h2>
 <a href="20250806_dougo8.jpg" target="_blank"><img src="20250806_dougo8.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo9.jpg" target="_blank"><img src="20250806_dougo9.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo10.jpg" target="_blank"><img src="20250806_dougo10.jpg" alt="サンプル画像" class="responsive-media"></a>
