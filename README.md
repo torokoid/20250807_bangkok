@@ -152,7 +152,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/05-06、市内のローカル市場から、コンビニ横の屋台まで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/05-06、市内のローカル市場から、コンビニ横の屋台、最後は四国松山の道後温泉まで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -227,6 +227,32 @@ p.note { display: none; }
 <h2><span class="yellow">朝8時から夜の9時まで営業の屋台</span></h2>
 <a href="20250805_031.JPG" target="_blank"><img src="20250805_031.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<br><br><br>
+
+<h2><span class="yellow">約4000km離れた四国松山から、無線つながりのメンバーが温泉情報を送ってくれました<br>この距離を感じさせない通信事情の進化に感謝ですね</span></h2>
+<a href="20250806_dougo.png" target="_blank"><img src="20250806_dougo.png" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">道後温泉のからくり時計</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdrirJFJIgk?si=8Ydl1ppJ3d6kYV-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<h2><span class="yellow">道後アーケードと路面電車</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awGPJHDp_uA?si=Vyb-BzHI7ZLlsKYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    
+<h2><span class="yellow">道後温泉の画像集、精緻な木彫りの前では小五のお孫さんがこんにちは！</span></h2>
+<a href="20250806_3.jpg" target="_blank"><img src="20250806_3.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_4.jpg" target="_blank"><img src="20250806_4.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_5.jpg" target="_blank"><img src="20250806_5.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_6.jpg" target="_blank"><img src="20250806_6.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_7.jpg" target="_blank"><img src="20250806_7.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_8.jpg" target="_blank"><img src="20250806_8.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_9.jpg" target="_blank"><img src="20250806_9.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_10.jpg" target="_blank"><img src="20250806_10.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250806_11.jpg" target="_blank"><img src="20250806_11.jpg" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--<br><br>
@@ -292,7 +318,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、パンコクのローカル市場から、コンビニ横の屋台まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、パンコクのローカル市場から、コンビニ横の屋台、最後は四国松山の道後温泉まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
