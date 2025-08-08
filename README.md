@@ -11,7 +11,7 @@ file_put_contents($counter_file, $count);
 ?>
 
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
-    
+
 <head>
 
 <meta charset="UTF-8">
