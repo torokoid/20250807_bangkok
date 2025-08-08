@@ -333,7 +333,24 @@ p.note { display: none; }
 
 <br><br><br>
 
-
+<?php
+$counter_file = "counter.txt";
+if (!file_exists($counter_file)) {
+    file_put_contents($counter_file, 0);
+}
+$count = (int)file_get_contents($counter_file);
+$count++;
+file_put_contents($counter_file, $count);
+?>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>アクセスカウンター</title>
+</head>
+<body>
+  <h1>このHPに来た人数: <?php echo $count; ?> 人</h1>
+</body>
+</html>
 
 
 
