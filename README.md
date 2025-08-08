@@ -333,9 +333,8 @@ p.note { display: none; }
 
 <br><br><br>
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>     
+<p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="Web Counter" Alt="counter" border="0" /> 番目の訪問者です</p>
+  
 
 
 
