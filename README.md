@@ -333,7 +333,7 @@ p.note { display: none; }
 
 <br><br><br>
 
-<h2><span class="yellow">あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="Web Counter" Alt="counter" border="0" /> 番目の訪問者です</span></h2>
+<p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=page&initCount=0" title="Web Counter" Alt="counter" border="0" /> 番目の訪問者です</p>
   
 
 
