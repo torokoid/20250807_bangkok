@@ -1,15 +1,5 @@
 # 20250807_bangkok
 
-<?php
-$counter_file = "counter.txt";
-if (!file_exists($counter_file)) {
-    file_put_contents($counter_file, 0);
-}
-$count = (int)file_get_contents($counter_file);
-$count++;
-file_put_contents($counter_file, $count);
-?>
-
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
 
 <head>
@@ -22,8 +12,6 @@ file_put_contents($counter_file, $count);
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!--ここから上はお決まりの定型文です-->
-
-  <title>アクセスカウンター</title>
 
 <!--ここからが表現の書式などを決めるcssという部分-->
 
@@ -346,7 +334,7 @@ p.note { display: none; }
 <br><br><br>
 
 
-  <h1>このHPに来た人数: <?php echo $count; ?> 人</h1>
+
 
 
 
