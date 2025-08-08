@@ -1,7 +1,5 @@
 # 20250807_bangkok
 
-<html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
-
 <?php
 $counter_file = "counter.txt";
 if (!file_exists($counter_file)) {
@@ -11,6 +9,8 @@ $count = (int)file_get_contents($counter_file);
 $count++;
 file_put_contents($counter_file, $count);
 ?>
+
+<html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
     
 <head>
 
