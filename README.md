@@ -258,7 +258,7 @@ p.note { display: none; }
 <a href="20250806_dougo10.jpg" target="_blank"><img src="20250806_dougo10.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250806_dougo11.jpg" target="_blank"><img src="20250806_dougo11.jpg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">お孫さんが可愛かったのでChatGPTに頼んでジブリアニメ風にしてもらいました<br>ご本人は照れてたとのこと！</span></h2>
+<h2><span class="yellow">お孫さんが可愛かったのでChatGPTに頼んでジブリアニメ風にしてもらいました<br>ご本人はこれ見て照れてたとのこと！</span></h2>
 <a href="ChatGPT Image 2025年8月8日 08_34_38.png" target="_blank"><img src="ChatGPT Image 2025年8月8日 08_34_38.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br>
